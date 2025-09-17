@@ -9,3 +9,5 @@ This project is an example of a chatbot implementation for a pizza ordering syst
 
 ### Telegram Client Demo Video
 [![Demo Video](https://img.youtube.com/vi/bAEDHF1tMM0/maxresdefault.jpg)](https://www.youtube.com/watch?v=bAEDHF1tMM0 "Chatbot Demo Video")
+
+[Watch the demo of the Telegram client in Youtube clicking here](https://www.youtube.com/watch?v=bAEDHF1tMM0)
